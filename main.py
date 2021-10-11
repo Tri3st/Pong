@@ -41,7 +41,7 @@ while game_is_on:
     ball.center()
     #player 1 wins
     #score player 1 + 1
-    scoreboad.l_point()
+    scoreboard.l_point()
     
   if ball.xcor() < -380:
     ball.center()
